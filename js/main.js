@@ -26,3 +26,7 @@ const banana = cacho
 
 // Arrow Function '=>' tipo um return so que em seta de forma simplificada
 const uva = () => 'Sou uma fruta';
+
+function uva1(){
+    return 'Sou uma fruta'
+};
