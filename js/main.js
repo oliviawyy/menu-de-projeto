@@ -28,6 +28,6 @@ const banana = cacho
 const uva = () => 'Sou uma fruta';
 
 // exemplo funcao literal
-function uva1(){
+function uva(){
     return 'Sou uma fruta'
 };
