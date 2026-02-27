@@ -17,17 +17,3 @@ btnP3.addEventListener('click', function abrirP3(){
     window.location.href='./pages/projeto03.html'
 });
 
-function cacho(x,y){
-    return x + y
-};
-
-const banana = cacho
-
-
-// Arrow Function '=>' tipo um return so que em seta de forma simplificada
-const uva = () => 'Sou uma fruta';
-
-// exemplo funcao literal
-function uva(){
-    return 'Sou uma fruta'
-};
