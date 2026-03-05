@@ -9,7 +9,6 @@ if (botoesProjeto.length > 0) {
         botao.addEventListener('click', () => {
             // O index começa em 0, então somamos 1 para bater com "projeto01", "projeto02"...
             const numeroProjeto = (index + 1).toString().padStart(2, '0');
-            alert(numeroProjeto)
             window.location.href = `./pages/projeto${numeroProjeto}.html`;
         });
     });
