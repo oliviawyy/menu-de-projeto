@@ -60,3 +60,7 @@ body {
     transform: translate(-2px);
     box-shadow: 0 10px 15px -3px rgb(0 0 0 /0.1);
 }
+
+.btn-navegacao{
+    background-color: gold;
+}
